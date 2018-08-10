@@ -1,0 +1,3 @@
+A Pen created at CodePen.io. You can find this one at https://codepen.io/IsaacBell/pen/VdePwJ.
+
+ Creating responsive comic panels with dynamism using CSS clip-path, including SVG fallback. Full explanatory article on [my site](http://thenewcode.com/700/Dynamic-Graphic-Novel-Illustrations-with-CSS-clip-path). Photograph by [@mopictures](https://www.flickr.com/photos/morgans_album/15594790864/), licensed under Creative Commons. 
